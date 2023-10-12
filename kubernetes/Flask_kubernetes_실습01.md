@@ -102,9 +102,7 @@ Press CTRL+C to quit
 
 ```
 
-  
-
-[https://lh6.googleusercontent.com/F5QiehAC3bthyukgiBlyZdb0sYbzYcp_GUc2gHNH-6YTrRXmFSMhwHJjbAcQa2jEMiAz2RLHKf5abeiZG6To7BaZlxFBKYxRDTnTwmbU5r2_rzHq0B3bAK7k0B20CB24Ar0vwXHN5JY5lzOTab8fHA](https://lh6.googleusercontent.com/F5QiehAC3bthyukgiBlyZdb0sYbzYcp_GUc2gHNH-6YTrRXmFSMhwHJjbAcQa2jEMiAz2RLHKf5abeiZG6To7BaZlxFBKYxRDTnTwmbU5r2_rzHq0B3bAK7k0B20CB24Ar0vwXHN5JY5lzOTab8fHA)
+![1697101096157](image/Flask_kubernetes_실습01/1697101096157.png)
 
   
 
@@ -187,7 +185,7 @@ Press CTRL+C to quit
 
   
 
-[https://lh4.googleusercontent.com/uIk8Yd7Dn2iaJwPMs3Gt2q-BJ1VXcfavBRfOZC5itZGn1GRYp7cdjh4I2t_famv0zZswpHZl02Mu_DiOqHlPHwAqBFszdoab89JtmhY6wKySTGlu1bL7qnT6N_NZAbS-xBLoC9Xj3iHFCs5oZvBreA](https://lh4.googleusercontent.com/uIk8Yd7Dn2iaJwPMs3Gt2q-BJ1VXcfavBRfOZC5itZGn1GRYp7cdjh4I2t_famv0zZswpHZl02Mu_DiOqHlPHwAqBFszdoab89JtmhY6wKySTGlu1bL7qnT6N_NZAbS-xBLoC9Xj3iHFCs5oZvBreA)
+![1697101198528](image/Flask_kubernetes_실습01/1697101198528.png)
 
   
 
